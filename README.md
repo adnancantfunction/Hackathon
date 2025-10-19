@@ -132,15 +132,9 @@ estimatedCapacity = waterFlowScore × 2 kW
 
 ---
 
-## 📸 Screenshots
-
-[Add screenshots here after deployment]
-
----
-
 ## 🚀 Deployment
 
-See [DEPLOYMENT.md](uae-flood-app/DEPLOYMENT.md) for detailed instructions.
+See [uae-flood-app/DEPLOYMENT.md](uae-flood-app/DEPLOYMENT.md) for detailed instructions.
 
 **Quick Deploy to Vercel:**
 1. Visit https://vercel.com/new
@@ -198,12 +192,6 @@ const WEATHER_API_KEY = 'your_api_key_here';
 
 ---
 
-## 🤝 Team
-
-Developed for [Your Hackathon Name]
-
----
-
 ## 📄 License
 
 MIT License
@@ -217,14 +205,5 @@ MIT License
 - XGBoost team for ML framework
 
 ---
-
-**🤖 Built with Claude Code**  
-**⚡ Powered by AI and real-time data**
-
----
-
-## 📞 Contact
-
-For questions or demo requests, contact: [Your Contact]
 
 **🌊 Making UAE safer, greener, and more sustainable**
